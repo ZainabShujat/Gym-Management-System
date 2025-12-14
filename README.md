@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Jest](https://img.shields.io/badge/Jest-30.2-C21325?style=for-the-badge&logo=jest)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 **A production-ready, frontend-only gym management system with comprehensive testing, performance optimizations, and full accessibility compliance.**
 
